@@ -111,4 +111,4 @@ To set up Udaan locally, follow these steps:
 5. **Mock Interview**: Prepare for interviews with our mock interview tool.
 
 ## Demo
-# DBITHACKATHON
+# Vyktoclash
