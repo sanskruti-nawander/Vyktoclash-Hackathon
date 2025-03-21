@@ -69,11 +69,11 @@ To set up Udaan locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Hannan2004/AI-Enhanced-Learning-Platform.git
+   git clone https://github.com/sanskruti-nawander/Vyktoclash-Hackathon.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd AI-Enhanced-Learning-Platform
+  
    ```
 3. Install frontend dependencies:
    ```bash
