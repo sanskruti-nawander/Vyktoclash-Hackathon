@@ -69,11 +69,11 @@ To set up Udaan locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Hannan2004/AI-Enhanced-Learning-Platform.git
+   git clone https://github.com/sanskruti-nawander/Vyktoclash-Hackathon.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd AI-Enhanced-Learning-Platform
+  
    ```
 3. Install frontend dependencies:
    ```bash
@@ -98,10 +98,7 @@ To set up Udaan locally, follow these steps:
      ```bash
      npm run dev
      ```
-7.  Create a file .env in the frontend folder 
-    - .env.example-
-      REACT_APP_SUPABASE_URL=YOUR SUPABASE URL
-      REACT_APP_SUPABASE_ANON_KEY=YOUR SUPABASE KEY
+
 ## Usage
 
 1. **Sign Up/Login**: Create an account or log in.
@@ -111,4 +108,4 @@ To set up Udaan locally, follow these steps:
 5. **Mock Interview**: Prepare for interviews with our mock interview tool.
 
 ## Demo
-# DBITHACKATHON
+# Vyktoclash
