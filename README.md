@@ -98,10 +98,7 @@ To set up Udaan locally, follow these steps:
      ```bash
      npm run dev
      ```
-7.  Create a file .env in the frontend folder 
-    - .env.example-
-      REACT_APP_SUPABASE_URL=YOUR SUPABASE URL
-      REACT_APP_SUPABASE_ANON_KEY=YOUR SUPABASE KEY
+
 ## Usage
 
 1. **Sign Up/Login**: Create an account or log in.
